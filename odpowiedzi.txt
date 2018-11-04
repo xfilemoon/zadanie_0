@@ -1,0 +1,20 @@
+1.1 GIT jest systemem kontroli wersji (pozwala zarządzać historią zmian kodu źródłowego). Umożliwia zapis zmian zachodzących w plikach,
+pozwala przeglądać historię (kto, co i kiedy zmienił) oraz przywrócić dowolną, poprzednią wersję pliku lub projektu, a przede wszystkim umożliwia pracę zespołową nad danym projektem.
+
+1.2 Branching (rozgałęzianie kodu) pozwala na rozwój nowych funkcjonalności niezależnie od głównej, stabilnej wersji kodu oraz niezależnie od siebie. Zmianywprowadzane na gałęziach mogą być usunięte bez ingerencji w główną gałąź kodu. Branching pozwala pracować na różnych wersjach repozytorium w tym samym czasie.Jeżeli zmiany w obrębie gałęzi zostaną zakończone może ona zostać połączona z główną gałęzią. Gałąź jest fragmentem kodu, który może zostać przez nas dodany to master branch, aby np. dodać nową funkcję do aplikacji.
+
+1.3 Repozytorium to miejsce gdzie przechowuje się informacje o kodzie źródłowym oraz wszelkich jego zmianach. Umożliwia organizację projektu.
+
+1.4 Repozytorium lokalne oraz zdalne.
+
+1.5 .gitignore to lista plików i folderów, które będą przez GITa ignorowane, ponieważ są one zbędne w repozytorium.
+
+1.6 Master to główna, stabilna gałąź kodu.
+
+1.7 Polecenie commit zapisuje zmiany w plikach projektu w repozytorium czyli służy do zatwierdzenia zmian.
+
+1.8 Klonowane pozwala pozyskać zbiór plików konkretnej wersji.
+
+1.9 Merge i rebase to sposoby na integrację zmian z jednej gałęzi do drugiej. Merge zachowuje historię, pozwala łatwiej wyjaśnić niezgodność oraz jest łatwo można cofnąć jego efekt. Rebase czyni graf czytelniejszym, historia zmian jest prostsza, ale możliwe niezgodności są trudniejsze do rozwiązania.
+
+1.10 Używamy Pull Request jeżeli chcemy, aby inni użytkownicy GitHuba sprawdzili nasz kod bądź zmiany przez nas dokonane i użyli ich w swojej gałęzi kodu. Zmiany, dodatki oraz usunięte fragmentu są zaznaczone kolorami. Pull Request pozwala dokonać recenzji oraz prowadzić dyskusję nt. naszej wykonanej pracy.
