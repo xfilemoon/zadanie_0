@@ -18,3 +18,5 @@ pozwala przeglądać historię (kto, co i kiedy zmienił) oraz przywrócić dowo
 1.9 Merge i rebase to sposoby na integrację zmian z jednej gałęzi do drugiej. Merge zachowuje historię, pozwala łatwiej wyjaśnić niezgodność oraz jest łatwo można cofnąć jego efekt. Rebase czyni graf czytelniejszym, historia zmian jest prostsza, ale możliwe niezgodności są trudniejsze do rozwiązania.
 
 1.10 Używamy Pull Request jeżeli chcemy, aby inni użytkownicy GitHuba sprawdzili nasz kod bądź zmiany przez nas dokonane i użyli ich w swojej gałęzi kodu. Zmiany, dodatki oraz usunięte fragmentu są zaznaczone kolorami. Pull Request pozwala dokonać recenzji oraz prowadzić dyskusję nt. naszej wykonanej pracy.
+
+zmoiany
